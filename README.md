@@ -73,7 +73,7 @@ skills/
 
 All of it runs inside [Kelpi](https://kelpi.ai) on a schedule, with guardrails, whether or not you remember to ask: the audit lands every morning, launches are approved by you, creative is designed and uploaded. $99/mo flat, 7-day free trial, no card to start, cancel anytime.
 
-The doctrine behind the skills (when to run ads at all, the loop math, the testing thresholds) ships with the OS document in the same collection.
+The doctrine behind the skills (when to run ads at all, the loop math, the testing thresholds) lives in [GROWTH-OS.md](GROWTH-OS.md).
 
 ## License
 
