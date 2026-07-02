@@ -1,0 +1,18 @@
+{
+  "slug": "performance-analyst",
+  "name": "Performance Analyst",
+  "pillar": "Measure & Scale",
+  "description": "Read the account like an analyst who is not trying to keep the account: real numbers by angle, platform-ROAS caveats, and the three decisions the data actually supports. Use weekly, or before any scaling or kill decision.",
+  "tags": [
+    "reporting",
+    "attribution",
+    "analysis"
+  ],
+  "mcp_access": "read",
+  "platforms": [
+    "claude-code",
+    "claude"
+  ],
+  "author": "Kelpi (kelpi.ai)",
+  "page": "https://kelpi.ai/skills/performance-analyst"
+}

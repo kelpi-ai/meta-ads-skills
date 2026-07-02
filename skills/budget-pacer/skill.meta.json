@@ -1,0 +1,18 @@
+{
+  "slug": "budget-pacer",
+  "name": "Budget Pacer",
+  "pillar": "Optimize & Protect",
+  "description": "Propose budget rules and schedules (spend caps, loser-pauses, winner scaling in 20% steps) as drafts you approve. Use once an angle has proven itself and it is time to scale without breaking it.",
+  "tags": [
+    "budgets",
+    "rules",
+    "scaling"
+  ],
+  "mcp_access": "write",
+  "platforms": [
+    "claude-code",
+    "claude"
+  ],
+  "author": "Kelpi (kelpi.ai)",
+  "page": "https://kelpi.ai/skills/budget-pacer"
+}

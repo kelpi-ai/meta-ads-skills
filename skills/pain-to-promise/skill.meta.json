@@ -1,0 +1,18 @@
+{
+  "slug": "pain-to-promise",
+  "name": "Pain to Promise",
+  "pillar": "Message & Research",
+  "description": "Turn a mined buyer pain into a specific, algorithm-aimable promise, and stress-test it with the one-second recognition test. Use to sharpen an angle's promise line before it becomes copy or creative.",
+  "tags": [
+    "angles",
+    "promises",
+    "copy"
+  ],
+  "mcp_access": "none",
+  "platforms": [
+    "claude-code",
+    "claude"
+  ],
+  "author": "Kelpi (kelpi.ai)",
+  "page": "https://kelpi.ai/skills/pain-to-promise"
+}

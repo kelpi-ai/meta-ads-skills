@@ -1,0 +1,18 @@
+{
+  "slug": "copy-formulas",
+  "name": "Copy Formulas",
+  "pillar": "Message & Research",
+  "description": "Write or fix ad copy using the classic copywriting formulas (PAS, AIDA, Before-After-Bridge, 4Ps, SCQA, Star-Story-Solution and friends), choosing the right formula for the placement. Use to draft primary text or to diagnose copy that reads fine but does not convert.",
+  "tags": [
+    "copy",
+    "formulas",
+    "primary-text"
+  ],
+  "mcp_access": "none",
+  "platforms": [
+    "claude-code",
+    "claude"
+  ],
+  "author": "Kelpi (kelpi.ai)",
+  "page": "https://kelpi.ai/skills/copy-formulas"
+}

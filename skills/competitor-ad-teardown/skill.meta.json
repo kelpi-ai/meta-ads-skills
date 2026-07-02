@@ -1,0 +1,18 @@
+{
+  "slug": "competitor-ad-teardown",
+  "name": "Competitor Ad Teardown",
+  "pillar": "Message & Research",
+  "description": "Mine the Meta Ad Library for competitors' PROVEN angles (many variations of one message, longest-running ads) and turn them into angle opportunities for your own offer. Use before writing angles, or when your angles feel stale.",
+  "tags": [
+    "research",
+    "ad-library",
+    "angles"
+  ],
+  "mcp_access": "none",
+  "platforms": [
+    "claude-code",
+    "claude"
+  ],
+  "author": "Kelpi (kelpi.ai)",
+  "page": "https://kelpi.ai/skills/competitor-ad-teardown"
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "media-buyer",
+  "name": "Media Buyer",
+  "pillar": "Launch & Targeting",
+  "description": "Build the whole campaign (objective, one broad ad set, a $20/day test, one ad per angle) as a PAUSED draft for review. Use when angles and creatives are approved and it is time to go live.",
+  "tags": [
+    "campaigns",
+    "launch",
+    "structure"
+  ],
+  "mcp_access": "write",
+  "platforms": [
+    "claude-code",
+    "claude"
+  ],
+  "author": "Kelpi (kelpi.ai)",
+  "page": "https://kelpi.ai/skills/media-buyer"
+}

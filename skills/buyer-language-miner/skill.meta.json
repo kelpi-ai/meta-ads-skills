@@ -1,0 +1,18 @@
+{
+  "slug": "buyer-language-miner",
+  "name": "Buyer Language Miner",
+  "pillar": "Message & Research",
+  "description": "Mine reviews, threads, and support messages for the verbatim words buyers use about the problem you solve, organized into pains, triggers, desired outcomes, objections, and alternatives. Use before writing angles or copy; the best hooks are quotes.",
+  "tags": [
+    "research",
+    "voice-of-customer",
+    "copy"
+  ],
+  "mcp_access": "none",
+  "platforms": [
+    "claude-code",
+    "claude"
+  ],
+  "author": "Kelpi (kelpi.ai)",
+  "page": "https://kelpi.ai/skills/buyer-language-miner"
+}

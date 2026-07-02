@@ -1,0 +1,18 @@
+{
+  "slug": "brand-reader",
+  "name": "Brand Reader",
+  "pillar": "Brand & Creative",
+  "description": "Read a website into a working brand kit (offer, voice, colors, fonts, proof) so ads can be written and designed without a creative brief. Use at the start of any campaign, or whenever ads keep coming out off-brand.",
+  "tags": [
+    "brand",
+    "research",
+    "onboarding"
+  ],
+  "mcp_access": "none",
+  "platforms": [
+    "claude-code",
+    "claude"
+  ],
+  "author": "Kelpi (kelpi.ai)",
+  "page": "https://kelpi.ai/skills/brand-reader"
+}
