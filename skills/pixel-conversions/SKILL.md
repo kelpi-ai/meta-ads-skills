@@ -1,6 +1,6 @@
 ---
 name: pixel-conversions
-description: Verify the tracking is telling the truth: which events fire, which double-fire or died, and whether Meta's numbers can be reconciled with your store's. Use before launch, after any site change, and whenever dashboards disagree.
+description: "Verify the tracking is telling the truth: which events fire, which double-fire or died, and whether Meta's numbers can be reconciled with your store's. Use before launch, after any site change, and whenever dashboards disagree."
 ---
 
 # Pixel & Conversions

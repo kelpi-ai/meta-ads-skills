@@ -8,7 +8,17 @@ Browse every skill with examples at **[kelpi.ai/skills](https://kelpi.ai/skills)
 
 ## Install
 
-Each folder in `skills/` holds one `SKILL.md` in the Claude skill format plus a `skill.meta.json`.
+One command, via the open [skills CLI](https://github.com/vercel-labs/skills) (works with Claude Code, Cursor, Codex, and 60+ other agents):
+
+```bash
+# everything
+npx skills add kelpi-ai/meta-ads-skills --all
+
+# or one skill
+npx skills add kelpi-ai/meta-ads-skills --skill daily-auditor
+```
+
+By hand instead: each folder in `skills/` holds one `SKILL.md` in the Claude skill format plus a `skill.meta.json`.
 
 - **Claude Code:** copy any skill folder into `~/.claude/skills/` (or your project's `.claude/skills/`). Claude picks it up by name.
 - **Claude (chat):** paste the skill's "Run it" prompt straight into a conversation.

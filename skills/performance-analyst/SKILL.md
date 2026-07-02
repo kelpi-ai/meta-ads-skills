@@ -1,6 +1,6 @@
 ---
 name: performance-analyst
-description: Read the account like an analyst who is not trying to keep the account: real numbers by angle, platform-ROAS caveats, and the three decisions the data actually supports. Use weekly, or before any scaling or kill decision.
+description: "Read the account like an analyst who is not trying to keep the account: real numbers by angle, platform-ROAS caveats, and the three decisions the data actually supports. Use weekly, or before any scaling or kill decision."
 ---
 
 # Performance Analyst
